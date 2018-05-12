@@ -1,0 +1,40 @@
+
+div {
+	overflow: visible;
+}
+
+h1 {
+	font-family: "Lato", sans-serif;
+	font-weight: 300;
+}
+
+h1 {
+	font-size: 45px;
+}
+
+h4 {
+	font-size: 23px;
+}
+
+h2,h3 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+}
+
+.largeimage img {
+	width: 100%;
+	max-height: 450px;
+}
+
+hr {
+	height: 4px;
+	border :none ;
+	color: #7d97ad;
+	background-color: #7d97ad;
+}
+
+p {
+	text-align: center;
+	color: #2d3c49;
+	font-size: 12px;
+}
